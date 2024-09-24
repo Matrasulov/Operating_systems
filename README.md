@@ -20,8 +20,18 @@ ProjectX Projecty
 In following example, both files and directories are to be organized by creating a new directory using **mkdr** command
 ```
 ubuntuvm@ubuntuvm:~$ mkdir Videos/Watched ubuntuvm@ubuntuvm:~$ ls -R Videos
+
 Videos:
 Watched
+```
+
+Use 
+```
+ubuntuvm@ubuntuvm:~$ cd Documents
+ubuntuvm@ubuntuvm:~/Documents$ mkdir ProjectX Projecty
+ubuntuvm@ubuntuvm:~/Documents$ ls
+ProjectX Projecty
+ubuntuvm@ubuntuvm:~/Documents$
 ```
 ### 1. Introduction 
 
